@@ -1,0 +1,7 @@
+.food-list {
+  list-style-type: none;
+}
+
+ul > li {
+  list-style-type: disc;
+}
